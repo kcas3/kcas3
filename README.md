@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![hello_there](https://user-images.githubusercontent.com/26153935/134444724-bbfdaf65-8adf-4f68-9e5a-48fb8ddeffa9.gif)
+
+
 <!--
 **kcas3/kcas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
