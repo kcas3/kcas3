@@ -9,7 +9,7 @@
 	- I like to play and produce absolutely terrible sounding music, which you can find somewhere on my website
 	- I'm sure more will get added to this eventually, but for now it's gonna be pretty bare
 - 🔭 I’m currently working on a Python web scraper for a capstone project in college (private repo for now but my segments may be unprivated at a later date and put in my Python Projects repository)
-- 🌱 I’m currently learning 3D modeling in Blender and reteaching myself Python
+- 🌱 I’m currently learning 3D modeling in Blender and re-teaching myself Python
 
 <!--
 **kcas3/kcas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
