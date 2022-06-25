@@ -4,12 +4,12 @@
 
 ### Welcome to my GitHub profile
 - A little about myself
-	- I am an IT Student and a Service Desk consultant at my University
+	- I am an IT Support Specialist
 	- I am currently trying to reteach myself some of my long forgotten programming skills
-	- I like to play and produce absolutely terrible sounding music, which you can find somewhere on my website
+	- I like to play and produce absolutely terrible sounding music, which you can probably find somewhere on my website
 	- I'm sure more will get added to this eventually, but for now it's gonna be pretty bare
-- 🔭 I’m currently working on a Python web scraper for a capstone project in college (private repo for now but my segments may be unprivated at a later date and put in my Python Projects repository)
-- 🌱 I’m currently learning 3D modeling in Blender and re-teaching myself Python
+- 🔭 I am currently working on a couple tools to make my life easier at work, but they are just theoretical and not really being implemented anywhere
+- 🌱 I’m currently learning 3D modeling in Blender and teaching myself PowerShell
 
 <!--
 **kcas3/kcas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
