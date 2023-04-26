@@ -4,11 +4,10 @@
 
 ### Welcome to my GitHub profile
 - A little about myself
-	- I am an IT Support Specialist
-	- I am currently trying to reteach myself some of my long forgotten programming skills
-	- I like to play and produce absolutely terrible sounding music, which you can probably find somewhere on my website
+	- I am currently an IT Support Specialist, currently trying to reteach myself some of my long forgotten programming skills
+	- I like to play and produce absolutely terrible sounding music, which you can probably find somewhere on my website unless I have privated it all
 	- I'm sure more will get added to this eventually, but for now it's gonna be pretty bare
-- 🔭 I am currently working on a couple tools to make my life easier at work, but they are just theoretical and not really being implemented anywhere
+- 🔭 I am currently working on a couple tools to make my life easier at work, but they are just theoretical and not really being implemented anywhere except on my local machine, if at all. Some of the repos are public, but they're pretty much CS101 levels of programming.
 - 🌱 I’m currently learning 3D modeling in Blender and teaching myself PowerShell
 
 <!--
