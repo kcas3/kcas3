@@ -4,9 +4,12 @@
 
 ### Welcome to my GitHub profile
 - A little about myself
-	- I am currently an IT Support Specialist, currently trying to reteach myself some of my long forgotten programming skills
-- 🔭 I am currently working on a couple tools to make my life easier at work, but they are just theoretical and not really being implemented anywhere except on my local machine, if at all. Some of the repos are public, but they're pretty much CS101 levels of programming.
-- 🌱 I’m currently teaching myself PowerShell for some stuff at work
+	- I am an IT Support Specialist
+    - I am actively pursuing a Masters in Computer Information Systems
+- Most of my repositories are private, as they contain classwork and class notes, as I used GitHub as a place to sync my text file notes in college.
+- The few public repos are just CS101 level Python work, as I use very basic scripting at work for some QOL things when working on tickets.
+- I am currently (for a class) making a text based RPG in Python. Nothing revolutionary, but once it's done, I'll probably make the repo public. 
+
 
 <!--
 **kcas3/kcas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
