@@ -6,9 +6,8 @@
 - A little about myself
 	- I am an IT Support Specialist
     - I am actively pursuing a Masters in Computer Information Systems
-- Most of my repositories are private, as they contain classwork and class notes, as I used GitHub as a place to sync my text file notes in college.
+- Most of my repositories are private since they contain classwork and class notes, as I used GitHub as a place to sync my text file notes in college.
 - The few public repos are just CS101 level Python work, as I use very basic scripting at work for some QOL things when working on tickets.
-- I am currently (for a class) making a text based RPG in Python. Nothing revolutionary, but once it's done, I'll probably make the repo public. 
 
 
 <!--
